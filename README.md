@@ -3,6 +3,8 @@
 SVG counter manages an arbitrary set of named counters and serves SVG images to
 show them.
 
+https://svg-counter.fmb.workers.dev
+
 ## Setup
 
 You will need npm and a Cloudflare account (free).
