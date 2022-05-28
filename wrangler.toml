@@ -3,5 +3,5 @@ main = "src/index.ts"
 compatibility_date = "2022-05-27"
 
 kv_namespaces = [
-    { binding = "COUNTERS", id = "REPLACEME1", preview_id = "REPLACEME2" }
+    { binding = "COUNTERS", id = "2699d78c40c948fb8a49b0ed2b2cd94f", preview_id = "887e8590e3274ada922d74627ea87899" }
 ]

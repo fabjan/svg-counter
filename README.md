@@ -23,7 +23,8 @@ use `wrangler`
 1. Create a COUNTERS KV namespace through wrangler:
 https://developers.cloudflare.com/workers/wrangler/cli-wrangler/commands/#kv
 
-1. Edit [wrangler.toml](./wrangler.toml) to insert your KV space id
+1. Edit [wrangler.toml](./wrangler.toml) to replace the KV space ids with your
+own (id and preview_id can be the same).
 
 ## Running
 
