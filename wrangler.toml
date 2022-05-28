@@ -1,0 +1,7 @@
+name = "svg-counter"
+main = "src/index.ts"
+compatibility_date = "2022-05-27"
+
+kv_namespaces = [
+    { binding = "COUNTERS", id = "REPLACEME1", preview_id = "REPLACEME2" }
+]
