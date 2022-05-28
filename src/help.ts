@@ -1,6 +1,6 @@
 export function helpHTML(baseURL: string) {
     const now = new Date();
-    const month = `${now.getFullYear}-${now.getMonth() + 1}`;
+    const month = `${now.getFullYear()}-${now.getMonth() + 1}`;
     const date = `${month}-${now.getDate()}`;
     return `
 <!DOCTYPE html>
